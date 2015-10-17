@@ -2,11 +2,15 @@
  * Created by pwatson on 10/15/15.
  */
 public class Person {
+<<<<<<< HEAD
 
     String name;
     String DOB;
     String marital;
     String address;
+=======
+    String name;
+>>>>>>> ec771a0198e98360203621fc1260a7ef9483cf3e
 
     public void setName(String name) {
         this.name = name;
@@ -24,5 +28,11 @@ public class Person {
         this.address = address;
     }
 
+<<<<<<< HEAD
 
+=======
+    String DOB;
+    String marital;
+    String address;
+>>>>>>> ec771a0198e98360203621fc1260a7ef9483cf3e
 }
